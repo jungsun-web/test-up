@@ -1,6 +1,7 @@
-레포지터리를 공유해야 하니..공유주소 알기
-
+1. 레포지토리 공유하기
 https://github.com/jungsun-web/test-up.git
+
+
 
 
 git bash
