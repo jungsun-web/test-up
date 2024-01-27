@@ -1,6 +1,6 @@
-https://github.com/jungsun-web/test-up.git
+레포지터리를 공유해야 하니..공유주소 알기
 
-1. 테스트업  레포지터리 주소
+https://github.com/jungsun-web/test-up.git
 
 
 git bash
@@ -10,10 +10,15 @@ git --version
 파워셀에서확인가능
 
 
-폴더에서 
+폴더에서  open bash here 실행
+
 1.  git init
                                       : 결과 -비어있는 .git폴더가 생김
 [.git]폴더에는 Git으로 생성한 버전들의 정보와 원격저장소 주소 등이 들어 있는데요, [.git] 폴더를 우리는 로컬저장소라고 부릅니다.
+
+
+ - git remote add origin 레포지토리 주소
+주소 : https://github.com/jungsun-web/test-up.git
 
 
 2. 첫 번째 커밋 만들기 
